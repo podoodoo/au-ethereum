@@ -1,1 +1,1 @@
-# au-ethereum-bootcamp
+# au-ethereum
